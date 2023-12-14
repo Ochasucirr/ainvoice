@@ -1,0 +1,10 @@
+LOGIN :
+
+1. Admin : Ocha 
+   Password : 4321
+
+2. Procurement Manager : Nari
+   Password : 1234
+
+3. Procurement Staff : Intan
+   Password : 54321
